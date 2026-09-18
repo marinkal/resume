@@ -2,7 +2,7 @@
 <h3 align="center"> Инженер по автоматизации тестирования </h3>
 <h4 align="center"> г. Тюмень </h4>
 
-<b>Ключевые навыки</b>: sql, python, postman, API, kibana, docker, linux, git
+<b>Ключевые навыки</b>: sql, python, pytest, postman, API, kibana, docker, linux, git
 
 <details>
 <summary><b>Нерелевантный опыт</b> — Middle SQL Developer · <i>декабрь 2024 — июнь 2026</i></summary>
